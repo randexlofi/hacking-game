@@ -1,0 +1,10 @@
+DIR                 - list files/folders.
+CD <folder>         - change directory.
+TYPE <file>         - view a file.
+DEL <file>          - delete a file.
+DOWNLOAD <file>     - simulate downloading.
+PING <adress>       - check if an adress is reachable.
+
+CLR                 - clear console.
+HELP                - show this help.
+EXIT                - quit console.
