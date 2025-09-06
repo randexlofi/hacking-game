@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "First Job",
+        "objective": "Scan 192.168.1.25 and report open ports.",
+        "target": "192.168.1.25",
+        "action": "scan",
+        "reward": 200,
+        "completed": true
+    },
+    {
+        "id": 2,
+        "title": "Find Payroll",
+        "objective": "Connect to example.com and download payroll.txt",
+        "target": "example.com",
+        "action": "download",
+        "reward": 600,
+        "completed": false
+    }
+]

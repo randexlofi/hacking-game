@@ -7,4 +7,5 @@ PING <adress>       - check if an adress is reachable.
 
 CLR                 - clear console.
 HELP                - show this help.
-EXIT                - quit console.
+EXIT                - exit the console app.
+QUIT                - quit the game.
